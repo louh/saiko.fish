@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/louh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://saiko.fish
+  * I am louh (https://keybase.io/louh) on keybase.
+  * I have a public key with fingerprint 25F4 0B46 B8F0 6868 8444  9227 93B1 FD11 1775 1812
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bfca8a4e465955a23fddbd82c87324c5c081e45bb6cad1431102f8d631eb5d380a",
+            "fingerprint": "25f40b46b8f068688444922793b1fd1117751812",
+            "host": "keybase.io",
+            "key_id": "93b1fd1117751812",
+            "kid": "0101bfca8a4e465955a23fddbd82c87324c5c081e45bb6cad1431102f8d631eb5d380a",
+            "uid": "79831723d777f957f9bbaf111bddbc19",
+            "username": "louh"
+        },
+        "service": {
+            "hostname": "saiko.fish",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484683535,
+    "expire_in": 157680000,
+    "prev": "a9d623ce63d8ead8b108249e52066e21359861d10f36386ce0fe1b1946be11ae",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBVBGD5euiiJqQUVlrR2k062s7OXWY2sF6uniqILSIeZnVnPcuzs
+6eweL2kXJYo8kvUWpXShCCqoKKm0yC5aGBiUlllYERQF1YNhaCjNir312MAwzD/f
+9/3f/8//KC3Jl5owWtx86sK1M27C0/vHYr5te6vSqwVi0yqhoFoIsfGDlVHmuIGQ
+RYUCQQQiIKaBEZaZrCq6omAJmpQSiiQDaVCSDcUQEWCyQohqYApkCIAomYiqEDCi
+UIhELPgF0wqXsmgkaoVdLisppiwSWSXIFFWkIiTLsi5Jmg4JMCkAQNMUgIDEiUHb
+8RjcHMEOy7dsHuOXwLi9f+D/s+/YuJymIwg0CVJN00xd4ZsQbPK8hEsaQPeADouG
+8U7G0WV2LCjs8Qs8Um4ZzGuqV8XEq4OtkJ1vWk6QsyJR27UNu4zHg64bKfBoblXE
+w1UwEphQCBArTHkDOaGcRR3LDgsFgCMN1/IkgYxkFUEFKn6BVUasKAtYHkLRVCTy
+5aVh5VwS61SVoMFUSBHDFBEgIknWmSKJqsokABUdqYAC0YQqRKrBRJMBAnT+UQwA
+zASvpl1hm2tD7hOXeuVYpWHsxqJM2POgvSTZl5Dqmzwp0ZssX2rK9L/z1nF8qi++
+sb8ie1Php8yOrcPLD7hNL9YX5WRMyZx1L7ltzdX42sZLY/FuOZCSjR4WjiX/7Dvx
+cO6CpWOxbzkJn4tnPx/MSqr+UHPyMgucHlkx+Bsf7Hy8GeTWP3vRU+4L5eL0huta
+yvzlRwaW/MoZWtgy/W7o1c260YVtw9NaFrXXv+nP2hjc3rmhPz7zR+uHo2kzup+0
+Voqvq7bl9S5beqMvfbFUpBWv6jlXP5Ix8K53Xu1Fp6j6452BHRn2l9v+t7m3ivfv
+azla+41+b4ML9n4/JoYTV4IZ5GxlyJ+y+3Bqc3xLV9rqocN5fV2HMhvb6w/Nebnk
+vNMSfF/XlF9X8gPXXPm6bubZpIY/htc6eQ==
+=wEs4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/louh
+
+==================================================================
